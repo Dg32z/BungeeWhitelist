@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BungeeWhitelist:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BungeeWhitelist_jar</output-path>
+    <root id="archive" name="BungeeWhitelist.jar">
+      <element id="module-output" name="BungeeWhitelist" />
+    </root>
+  </artifact>
+</component>

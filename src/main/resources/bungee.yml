@@ -1,0 +1,20 @@
+name: BungeeWhitelist
+version: 1.0.1
+main: org.network.dg32z.BungeeWhitelist
+author: Dg32z_
+
+permissions:
+  whitelist.control.reload:
+    default: op
+  whitelist.control.list:
+    default: op
+  whitelist.control.import:
+    default: op
+  whitelist.control.startoroff:
+    default: op
+  whitelist.control.add:
+    default: op
+  whitelist.control.remove:
+    default: op
+  whitelist.control.help:
+    default: op

@@ -1,0 +1,5 @@
+enabled: false
+
+kick_message: "你没有此服务器的白名单!"
+
+whitelist: []
